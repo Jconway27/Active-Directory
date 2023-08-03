@@ -19,6 +19,7 @@ Active directory created through VirtualBox using Windows 10 and Windows Server 
 
 <br />
 <br />
+<p align="center">
 1. Domain controller virtual machine created:  <br/>
 <img src="https://imgur.com/XlBqDrj.png" height="80%" width="80%"/>
 <br />
@@ -77,8 +78,7 @@ Active directory created through VirtualBox using Windows 10 and Windows Server 
 <br />
 15. K. Marden's command line whoami:  <br/>
 <img src="https://imgur.com/98Np7G8.png" height="80%" width="80%"/>
-<br />
-<br />
+</p>
 
 
 <!--
